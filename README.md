@@ -45,20 +45,18 @@ Abra o arquivo index.html no navegador.
 Clique nos botões de Biografia ou Informações para alternar o conteúdo.
 
 Utilize os ícones para acessar as redes sociais ou o botão para enviar mensagem via WhatsApp.
-
-Deploy
+```
+## Deploy
 O projeto pode ser publicado na Vercel para acesso online:
 
-Link do Deploy: Coloque aqui o link do deploy na Vercel
+Link do Deploy: 
 
-Contato
-LinkedIn: Mateus Moreira
+## Contato
+[Meu LinkedIn](https://www.linkedin.com/in/mateusmoreiraymoreirafeitosa)
 
-GitHub: MateusFeitosa01
+[Meu GitHub](https://github.com/MateusFeitosa01)
 
-Instagram: @maateusmoreira
-
-WhatsApp: Clique aqui para enviar mensagem
+[📱 Falar no WhatsApp](https://wa.me/5583999883708?text=Olá,%20vim%20pela%20sua%20página%20de%20perfil!)
 
 Licença
 Este projeto é open-source e está disponível para uso e modificação livre.
