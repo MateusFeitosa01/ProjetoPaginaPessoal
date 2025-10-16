@@ -47,7 +47,7 @@ Clique nos botões de Biografia ou Informações para alternar o conteúdo.
 Utilize os ícones para acessar as redes sociais ou o botão para enviar mensagem via WhatsApp.
 ```
 ## Deploy
-O projeto pode ser publicado na Vercel para acesso online:
+O projeto pode ser publicado na Vercel para acesso online: https://projeto-pagina-pessoal.vercel.app/
 
 Link do Deploy: 
 
